@@ -1,4 +1,4 @@
-package ansan.domain.Entity;
+package movie.domain.Entity;
 
 
 import lombok.Getter;
